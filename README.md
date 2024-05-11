@@ -18,5 +18,5 @@
 
 ### 💻📚 Estou cursando a faculdade de Análise e desenvolvimento de sistemas, mas me especializando através de cursos.
 </br>
-![Snake animation](https://github.com/Leticiahalana/blob/output/github-contribution-grid-snake.svg)
+
 
