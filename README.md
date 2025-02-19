@@ -14,7 +14,7 @@
 ![Sociais](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Blogue](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 💻📚 Estou cursando a faculdade de Análise e desenvolvimento de sistemas, mas me especializando através de cursos.
+### 💻📚 Sou recém-formada em Análise e desenvolvimento de sistemas.
 </br>
 
 ## Certificados
