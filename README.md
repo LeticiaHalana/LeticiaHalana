@@ -14,7 +14,8 @@
 ![Sociais](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Blogue](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 💻📚 Sou recém-formada em Análise e desenvolvimento de sistemas.
+### 💻📚 Formada em Análise e desenvolvimento de sistemas. - Pós graduanda em Docência na educação profissional e ensino técnico.
+
 </br>
 
 ## Certificados
